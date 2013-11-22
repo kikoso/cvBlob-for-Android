@@ -45,6 +45,6 @@ Enrique López Mañas - <eenriquelopez@gmail.com>
 [2]: https://github.com/kikoso/cvBlob-for-Android/wiki/Labeling
 [3]: https://code.google.com/p/cvblob-for-android/downloads/detail?name=cvBlobDetection.zip&can=2&q=
 [4]: https://code.google.com/p/cvblob-for-android/downloads/detail?name=cvBlobDetectionDemo.apk&can=2&q=
-[5]: https://raw.github.com/kikoso/cvBlob-for-Android/blob/master/art/screenshot.png
+[5]: https://raw.github.com/kikoso/cvBlob-for-Android/master/art/screenshot.png
 [6]: http://www.elec.york.ac.uk/staff/ajg112.html
 [7]: https://github.com/kikoso/android-stackblur/tree/master/StackBlur
