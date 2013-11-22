@@ -9,7 +9,7 @@ If you have any comment about the library, feel free to contact me at eenriquelo
 
 You can access further information about [labeling tables][1] and [labeling][2].
 
-You can download an ![APK demo][3] or the ![full library][4]
+You can download an [APK demo][3] or the [full library][4]
 
 Remember that in order to use the library, you have to add to your project as a library. In order to accomplish that, you should add it on the target project, under "Properties -> Android -> Add Library"
 
