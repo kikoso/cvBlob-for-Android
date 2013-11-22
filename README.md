@@ -22,6 +22,12 @@ Acknowledgements
 
 Usage
 --------------------
+Being the "variable" bitmap a Bitmap, proceed as follows:
+
+    BlobDetection blob = new BlobDetection(bitmap);
+    Bitmap anotherBitmap = blob.getBlob(bitmap);
+    
+The variable "blobList" contains information about all the blobs found
 
 
 Developed By
