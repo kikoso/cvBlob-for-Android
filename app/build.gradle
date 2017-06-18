@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "cv.blob"
-        minSdkVersion 7
-        targetSdkVersion 7
+        minSdkVersion 14
+        targetSdkVersion 25
     }
 
     buildTypes {
